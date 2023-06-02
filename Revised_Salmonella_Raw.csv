@@ -1,4 +1,4 @@
-Product,Disease,No. of samples in  period 1 and 2,Positive results in period 1,Positive results in period 2,No. of samples in  period 3 and 4,Positive results in period 3,Positive results in period 4,Total positive,Total tested
+Product,Disease,Number of samples in  period 1 and 2,Positive results in period 1,Positive results in period 2,Number of samples in  period 3 and 4,Positive results in period 3,Positive results in period 4,Total positive,Total tested
 Raw beef,,,,,,,,,
 ,NTSEC,27,12,20,27,22,17,71,108
 ,Salmonella,27,2,3,27,2,1,8,108
