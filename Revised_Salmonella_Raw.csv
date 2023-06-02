@@ -1,22 +1,22 @@
 ,Disease,No. of samples in  period 1 and 2,Positive results in period 1,Positive results in period 2,No. of samples in  period 3 and 4,Positive results in period 3,Positive results in period 4,Total positive,Total tested
 Raw beef,,,,,,,,,
-,?NTSEC,27,12,20,27,22,17,71,108
-,?Salmonella,27,2,3,27,2,1,8,108
+,NTSEC,27,12,20,27,22,17,71,108
+,Salmonella,27,2,3,27,2,1,8,108
 Raw chicken,,,,,,,,,
-,?NTSEC,15,6,12,15,8,5,31,60
-,?Salmonella,15,0,0,15,4,0,4,60
+,NTSEC,15,6,12,15,8,5,31,60
+,Salmonella,15,0,0,15,4,0,4,60
 Raw turkey,,,,,,,,,
-,?NTSEC,12,5,9,9,6,3,23,42
-,?Salmonella,12,0,0,9,3,0,3,42
+,NTSEC,12,5,9,9,6,3,23,42
+,Salmonella,12,0,0,9,3,0,3,42
 Raw lamb,,,,,,,,,
-,?NTSEC,6,5,4,9,2,7,18,30
-,?Salmonella,6,0,0,9,2,0,2,30
+,NTSEC,6,5,4,9,2,7,18,30
+,Salmonella,6,0,0,9,2,0,2,30
 Canned,,,,,,,,,
-,?NTSEC,6,2,0,6,0,0,2,24
-,?Salmonella,6,0,0,6,0,0,0,24
+,NTSEC,6,2,0,6,0,0,2,24
+,Salmonella,6,0,0,6,0,0,0,24
 Dry,,,,,,,,,
-,?NTSEC,6,5,3,6,0,0,8,24
-,?Salmonella,6,0,0,6,0,0,0,24
+,NTSEC,6,5,3,6,0,0,8,24
+,Salmonella,6,0,0,6,0,0,0,24
 Overall,,,,,,,,,
-,?NTSEC,72,35,48,72,38,32,153,288
-,?Salmonella,72,2,3,72,11,1,17,288
+,NTSEC,72,35,48,72,38,32,153,288
+,Salmonella,72,2,3,72,11,1,17,288
