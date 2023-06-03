@@ -1,13 +1,10 @@
-,Low Median Survival time (months),High Median Survival time (months),,,,
-Prostate cancer ,7,7,,,,
-Mast cell    ,6,12,,,,
-Sarcoma    ,12,24,,,,
-Mammary Tumors   ,24,48,,,,
-Hemangiosarcoma    ,3,7,,,,
-B-cell lymphoma    ,1,12,,,,
-Histiocytic sarcoma   ,3,4,,,,
-Lymphoma   ,1,14,,,,
-Osteosarcoma     ,2,6.5,,,,
-,,,,,,
-,,,,,,
-,,,,,,
+,Low Median Survival time (months),High Median Survival time (months)
+Prostate cancer ,7,7
+Mast cell    ,6,12
+Sarcoma    ,12,24
+Mammary Tumors   ,24,48
+Hemangiosarcoma    ,3,7
+B-cell lymphoma    ,1,12
+Histiocytic sarcoma   ,3,4
+Lymphoma   ,1,14
+Osteosarcoma     ,2,6.5
